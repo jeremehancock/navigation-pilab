@@ -1,4 +1,4 @@
-# Navigaion - Pi Lab
+# Navigation - Pi Lab
 Bludit Plugin - Display the most recent posts in the sidebar with thumbnails.
 
 This plugin was built for [Pi Lab](https://pilab.dev).
