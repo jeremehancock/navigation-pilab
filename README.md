@@ -3,7 +3,7 @@ Bludit Plugin - Display the most recent posts in the sidebar with thumbnails.
 
 This plugin was built for [Pi Lab](https://pilab.dev).
 
-Compatibility: 3.10.0
+Compatibility: 3.10 - 3.20
 
 ## How to install
 1. Download the latest version from the zips directory.
